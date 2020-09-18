@@ -1777,3 +1777,4 @@ volumes:
   laradock_postgres:
     external: true
   elasticsearch: 
+  docker-in-docker:
